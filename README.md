@@ -1,4 +1,4 @@
-# GUESS GAME
+# GUESS GAME FOR RANDOM NUMBERS
 
 ## This is a Game where you need guess a Number between 1-100.Then Computer Guess a number & try to matches with your Number.
 ## You are given Infinite Guesses .
@@ -15,3 +15,4 @@
 ### The Person who guess the number in exact;y low chances ,tops the Leaderboard.
 
 ### Hope you will like the game.Plz give your Feedback.
+## Soon be Updated...
