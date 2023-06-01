@@ -15,4 +15,4 @@
 ### The Person who guess the number in exact;y low chances ,tops the Leaderboard.
 
 ### Hope you will like the game.Plz give your Feedback.
-## Soon be Updated...
+## Soon be Updated.Deployed link can be added
